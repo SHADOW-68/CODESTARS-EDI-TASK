@@ -1,0 +1,53 @@
+The timer starts. The problems appear. And suddenly, every bug feels personal.
+
+We recently ran a mock Competitive Programming contest at DJSCE, Mumbai and for a few hours, the room felt like a live judge server: quiet, tense, and occasionally interrupted by someone muttering "Why is it not working yaar!"
+
+There were wrong answers. Last minute fixes. Problems that looked easy for the first five minutes and then weren't.Literally everyone got stuck on the second problem which just had a tiny observation which most participants missed.That specific, disproportionate joy of finally seeing Accepted after three failed attempts.
+
+That's the part people miss about Competitive Programming — it was never really about the leaderboard. It's about sitting with a problem you've never seen before, thinking clearly while the clock works against you, and getting comfortable with being wrong on the way to being right.
+
+This contest gave our students exactly that: a low stakes shot at a high pressure skill, and a small taste of what a real CP community looks like when it's actually building something — writing problems, breaking each other's solutions, debugging at 2 AM because someone forgot long long existed.
+
+Here's the honest part: nobody in that room started as an expert. Most people who are good at this now were once staring at a blank screen wondering where to even begin. You just need to solve one problem. Then another.
+
+Swipe through to see how it went 👉 (leaderboard, a wrong-submission moment, and the "ohhh i got it" moment that decides most CP problems)
+
+If you're a student at DJSCE — or anywhere — who's even a little curious: drop a comment, reach out, or just open a problem and start typing. Our next contest won't wait for you to feel ready.
+
+#DJSCE #CompetitiveProgramming #DSA #Programming #ProblemSolving #CodingCommunity
+
+
+2.Outreach strategy:
+Three distinct audiences, each needing a slightly different reason to stop scrolling:
+
+The curious but hesitant DJSCE student : Has heard of Codeforces or LeetCode, maybe even made an account once, but has never actually competed because it feels intimidating or "for people who are already good at coding." This is the primary target — the post is written almost entirely for them.
+An already active CP student :Juniors/Seniors who compete regularly and would want to know a mock contest happened, potentially to join the organizing side next time or mentor newer members.
+The audience outside the college :Students at other Mumbai colleges or infact any other college around the world, alumni, or recruiters/seniors scrolling LinkedIn who might reshare, comment, or flag the post to their own juniors. This group doesn't join directly but multiplies reach.
+                                  Could potentially fetch in some smart contestent/organizer/recruiter who could eventually enhance the experience of the participants.
+
+What makes the post interesting to them?
+
+The post is engineered to not read like an announcement. Instead of opening with "we conducted a contest" (the flat, forgettable version), it opens with a moment almost anyone in tech has lived through — the late night, too many tabs open, "why isn't this working" spiral before revealing that it's actually about a coding contest. That reframing does two things: it earns the first three seconds of attention before the reader even knows it's a recruitment post, and it signals this community understands what it's actually like to struggle, which is more persuasive to a hesitant beginner than any list of achievements would be.
+
+It also directly names the exact anxiety that stops people from trying CP in the first place about "I'm not good enough yet" and answers it in the same breath ("nobody started as an expert"). That's not filler; it's the single biggest objection this specific audience has, addressed before they can use it as an excuse to close the tab (pun intended).
+
+How would we encourage them to engage with the community?
+
+Engagement is layered by commitment level, since not everyone is ready for the same ask:
+
+Lowest friction :Comment/React. Just acknowledging the post keeps it alive in others' feeds via LinkedIn's algorithm, and gives hesitant readers a low stakes way to signal interest without committing to anything.
+
+Medium friction :DM/reach out. For people who want more info before joining anything publicly,increases community engagement and participation and potentially even addition of new members.
+
+Strongest hook :Just start solving. By ending with "our next contest won't wait for you to feel ready" we convert passive scrollers into people actively anticipating the next event, rather than people who read once and forget by tomorrow.
+
+Personally feel that with every contest,the best problem from that contest(decided by taking feedback from the participants)could be posted with the post as well.
+
+Tagging 
+
+Tag DJSCE's official page and any faculty coordinators involved,this puts the post in front of the college's own follower base, not just the organizing team's personal networks. Encourage participants themselves to reshare or comment with their own experience ("what was your hardest bug of the night?") relevant reactions in the comments do more organic reach than the post alone, since each comment reappears in that commenter's own network.
+
+
+Second wave content 
+
+Planning a short follow-up post,around a week later specifically featuring a participant's testimonial or a mini interview sharinf their experience."I was scared but I did it anyway,had a great experience" content converts hesitant readers far better than an organizer's own words, because it removes the "of course they'd say that, they're recruiting" doubts from their mind.
