@@ -50,4 +50,4 @@ Tag DJSCE's official page and any faculty coordinators involved,this puts the po
 
 Second wave content 
 
-Planning a short follow-up post,around a week later specifically featuring a participant's testimonial or a mini interview sharinf their experience."I was scared but I did it anyway,had a great experience" content converts hesitant readers far better than an organizer's own words, because it removes the "of course they'd say that, they're recruiting" doubts from their mind.
+Planning a short follow-up post,around a week later specifically featuring a participant's testimonial or a mini interview sharing their experience."I was scared but I did it anyway,had a great experience" content converts hesitant readers far better than an organizer's own words, because it removes the "of course they'd say that, they're recruiting" doubts from their mind.
