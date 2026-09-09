@@ -1,4 +1,4 @@
-                                The timer starts. The problems appear. And suddenly, every bug feels personal.
+                                The timer starts, The problems appear, And suddenly, every bug feels personal.
 
 We recently ran a mock Competitive Programming contest at DJSCE, Mumbai and for a few hours, the room felt like a live judge server: quiet, tense, and occasionally interrupted by someone muttering "Why is it not working yaar!"
 
