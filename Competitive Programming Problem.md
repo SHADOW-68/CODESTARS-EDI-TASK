@@ -16,7 +16,7 @@ Your laptop's fan is spinning like it's about to fly out of your laptop. A littl
 
 You briefly consider closing tabs one at a time, carefully curating your browser. You reject this idea immediately. It is 2 AM. You do not have the emotional bandwidth for careful curation. You want *one decisive motion* — grab a single unbroken stretch of tabs, left to right, no gaps, no exceptions, and slam it shut. If, by some miracle, your current setup is already within budget, you get to do nothing and simply feel good about yourself for the first time tonight.
 
-But you are not reckless. You are, after all, still a computer engineering student, even at 2 AM. You want to close the *fewest* tabs possible — sacrificing the smallest, most contiguous chunk of your browsing history necessary to make your laptop stop sounding like it's preparing for orbit.
+But you are not reckless. You are, after all, still a computer engineering student, even at 2 AM. You want to close the *fewest* tabs possible sacrificing the smallest, most contiguous chunk of your browsing history necessary to make your laptop stop sounding like it's preparing for orbit.
 
 Somewhere in that string of $N$ tabs is your answer. Find it before your laptop finds its limit.
 
