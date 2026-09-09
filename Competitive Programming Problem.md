@@ -2,7 +2,7 @@
 
 **Time Limit:** 1 second | **Memory Limit:** 256 megabytes
 
-## Story
+## Problem statement
 
 It is 2:14 AM. Your submission for the Data Structures assignment is due at 9:00 AM, and you have opened your laptop with the noble intention of "just quickly checking one thing."
 
@@ -20,7 +20,7 @@ But you are not reckless. You are, after all, still a computer engineering stude
 
 Somewhere in that string of $N$ tabs is your answer. Find it before your laptop finds its limit.
 
-## Problem
+## Core idea
 
 You are given $N$ tabs, indexed $1$ through $N$ from left to right. Tab $i$ consumes $A_i$ MB of memory.
 
