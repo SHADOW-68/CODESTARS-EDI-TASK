@@ -37,13 +37,11 @@ So:
 
 The answer is therefore:
 
-30\cdot\left\lfloor\frac N2\right\rfloor
-+
-20\cdot(N\bmod2)
+30 * (N / 2) + 20 * (N % 2) 
 
 We can calculate this directly for every test case.
 
-Why does this work?
+**Why does this work?**
 
 If a solution contains two 1 kg weights, replacing them with one 2 kg weight keeps the total weight unchanged while reducing the cost from 40 to 30.
 Hence an optimal solution contains at most one 1 kg weight.
@@ -54,7 +52,7 @@ The formula uses exactly that optimal combination, so it gives the minimum cost.
 * Time: O(1)
 * Space: O(1)
 
-#CODE:
+**CODE:**
 #include <bits/stdc++.h>
 using namespace std;
 
