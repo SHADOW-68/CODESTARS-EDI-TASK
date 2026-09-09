@@ -51,23 +51,24 @@ The formula uses exactly that optimal combination, so it gives the minimum cost.
 * Time: O(1)
 * Space: O(1)
 
-**CODE:**
-#include <bits/stdc++.h>
-using namespace std;
+**CODE(C++):**
 
-int main() {
-    int T;
-    cin >> T;
+    #include <bits/stdc++.h>
+    using namespace std;
 
-    while (T--) {
-        long long N;
-        cin >> N;
+    int main() {
+        int T;
+        cin >> T;
 
-        cout << 30 * (N / 2) + 20 * (N % 2) << '\n';
+        while (T--) {
+            long long N;
+            cin >> N;
+
+            cout << 30 * (N / 2) + 20 * (N % 2) << '\n';
+        }
+
+        return 0;
     }
-
-    return 0;
-}
 
 **2.MAXIMUM SUM**
 
@@ -113,33 +114,46 @@ Complexity
 Time: O(N)
 Space: O(N)
 
-#include <bits/stdc++.h>
-using namespace std;
+**CODE(C++):**
 
-int main() {
-    int T;
-    cin >> T;
-    while (T--) {
-        int N, K;
-        cin >> N >> K;
-        vector<long long> a(N);
-        for (auto &x : A)
-        {
-            cin >> x;
-        }
-        int len = N - K;
-        long long window = 0;
-        for (int i = 0; i < len; i++)
-            {
-            window += a[i];
+    #include <bits/stdc++.h>
+    using namespace std;
+
+    int main() {
+        int T;
+        cin >> T;
+
+        while (T--) {
+            int N, K;
+            cin >> N >> K;
+
+            vector<long long> A(N);
+
+            for (auto &x : A) {
+                cin >> x;
             }
-        long long ans = window;
-        for (int i = len; i < N; i++) {
-            window += A[i];
-            window -= A[i - len];
-            ans = max(ans, window);
+
+            int len = N - K;
+
+            long long window = 0;
+
+            for (int i = 0; i < len; i++) {
+                window += A[i];
+            }
+
+            long long ans = window;
+
+            for (int i = len; i < N; i++) {
+                window += A[i];
+                window -= A[i - len];
+
+                ans = max(ans, window);
+            }
+
+            cout << ans << '\n';
         }
-        cout << ans << '\n';
+
+        return 0;
     }
-    return 0;
-}
+
+      
