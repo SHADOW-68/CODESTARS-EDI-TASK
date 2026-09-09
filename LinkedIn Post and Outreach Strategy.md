@@ -12,7 +12,7 @@ Here's the honest part: nobody in that room started as an expert. Most people wh
 
 Swipe through to see how it went 👉 (leaderboard, a wrong-submission moment, and the "ohhh i got it" moment that decides most CP problems)
 
-If you're a student at DJSCE — or anywhere — who's even a little curious: drop a comment, reach out, or just open a problem and start typing. Our next contest won't wait for you to feel ready.
+If you're a student at DJSCE or anywhere who's even a little curious: drop a comment, reach out, or just open a problem and start typing. Our next contest won't wait for you to feel ready.
 
 #DJSCE #CompetitiveProgramming #DSA #Programming #ProblemSolving #CodingCommunity
 
