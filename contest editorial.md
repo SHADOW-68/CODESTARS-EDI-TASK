@@ -119,34 +119,27 @@ using namespace std;
 int main() {
     int T;
     cin >> T;
-
     while (T--) {
         int N, K;
         cin >> N >> K;
-
-        vector<long long> A(N);
-
+        vector<long long> a(N);
         for (auto &x : A)
+        {
             cin >> x;
-
+        }
         int len = N - K;
-
         long long window = 0;
-
         for (int i = 0; i < len; i++)
-            window += A[i];
-
+            {
+            window += a[i];
+            }
         long long ans = window;
-
         for (int i = len; i < N; i++) {
             window += A[i];
             window -= A[i - len];
-
             ans = max(ans, window);
         }
-
         cout << ans << '\n';
     }
-
     return 0;
 }
