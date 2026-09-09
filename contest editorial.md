@@ -6,7 +6,7 @@ Problems covered:
 * MAXIMUM SUM
 * GOOD SUBSET(EASY)
 
-#1.Reach Weight:
+**1.Reach Weight:**
 
 Rating: ~800
 Tags: Math, Greedy
@@ -24,7 +24,7 @@ Compare the cost of:
 
 Which one is cheaper?
 
-#Observation:
+**Observation:**
 
 Two 1 kg weights cost:20+20=40,while one 2 kg weight costs only 30.
 Therefore, whenever possible, we should use a 2 kg weight. There is never a reason for an optimal solution to contain two 1 kg weights.
@@ -33,7 +33,7 @@ So:
 * if N is even, use N/2 two-kg weights;
 * if N is odd, use (N-1)/2 two-kg weights and one one-kg weight.
 
-#Approach:
+**Approach:**
 
 The answer is therefore:
 
@@ -49,7 +49,7 @@ If a solution contains two 1 kg weights, replacing them with one 2 kg weight kee
 Hence an optimal solution contains at most one 1 kg weight.
 The formula uses exactly that optimal combination, so it gives the minimum cost.
 
-#Complexity:
+**Complexity:**
 
 * Time: O(1)
 * Space: O(1)
