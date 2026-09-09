@@ -14,7 +14,7 @@ Each tab is, in its own way, a small monument to a decision you made. Each tab i
 
 Your laptop's fan is spinning like it's about to fly out of your laptop. A little research (three more tabs) reveals the grim truth: Chrome is allowed a budget of $X$ MB before your system starts throttling everything, including critically the compiler you need to actually finish the assignment.
 
-You briefly consider closing tabs one at a time, carefully curating your browser like a bonsai tree. You reject this idea immediately. It is 2 AM. You do not have the emotional bandwidth for careful curation. You want *one decisive motion* — grab a single unbroken stretch of tabs, left to right, no gaps, no exceptions, and slam it shut. If, by some miracle, your current setup is already within budget, you get to do nothing and simply feel good about yourself for the first time tonight.
+You briefly consider closing tabs one at a time, carefully curating your browser. You reject this idea immediately. It is 2 AM. You do not have the emotional bandwidth for careful curation. You want *one decisive motion* — grab a single unbroken stretch of tabs, left to right, no gaps, no exceptions, and slam it shut. If, by some miracle, your current setup is already within budget, you get to do nothing and simply feel good about yourself for the first time tonight.
 
 But you are not reckless. You are, after all, still a computer engineering student, even at 2 AM. You want to close the *fewest* tabs possible — sacrificing the smallest, most contiguous chunk of your browsing history necessary to make your laptop stop sounding like it's preparing for orbit.
 
